@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
+![](https://komarev.com/ghpvc/?username=thedev0ps&color=red)
 <!--
 **thedev0ps/thedev0ps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
